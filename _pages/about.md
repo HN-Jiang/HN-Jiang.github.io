@@ -87,7 +87,6 @@ redirect_from:
 
 
 <span class='anchor' id='academic-results'></span>
-
 # 📝 学术成果
 ## 发表论文
 ### First author & Corresponding author
