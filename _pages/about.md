@@ -16,7 +16,6 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 
-<span class='anchor' id='about-me'></span>
 <span class='anchor' id='research-direction'></span>
 # 📑 研究方向
 摄影测量与遥感、地质灾害监测、SAR&amp;InSAR、多传感器数据融合、时间序列分析、地表运动估计、SAR考古学、空间基础设施稳定性测量、数据可视化、目标检测
@@ -87,7 +86,7 @@ redirect_from:
 </table>
 
 
-<span class='anchor' id='paper'></span>
+<span class='anchor' id='academic-results'></span>
 
 # 📝 学术成果
 ## 发表论文
