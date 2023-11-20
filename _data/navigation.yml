@@ -13,7 +13,7 @@ main:
     url: "/#project"
 
   - title: "学术成果"
-    url: "/#paper"
+    url: "/#academic-results"
 
   - title: "学术会议"
     url: "/#conference"
